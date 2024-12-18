@@ -1,0 +1,12 @@
+pandas
+geopandas
+polars
+numpy
+scikit-learn==1.5.2
+matplotlib
+seaborn
+xgboost
+openpyxl
+xlsxwriter
+gradio
+pyarrow
